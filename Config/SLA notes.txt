@@ -1,0 +1,36 @@
+Start Date: Nov 1, 2020 to Last Friday (Incident and Request)
+
+Excel Export (Below are the columns needed)
+Ref
+Title
+Description
+Building or Site
+Organization->Name
+Priority
+Service subcategory->Service name
+Service subcategory->Name
+Start date
+Dispatch Date
+Assignment date
+Resolution date
+Cumulated waiting for execution date
+Cumulated for further verification from user
+Cumulated time for waiting for appoval initial
+Cumulated time for waiting for approval 3rd party initial
+Cumulated pending
+reopen time
+For Clarification Date
+For Approval Date
+Last pending date
+Status
+Solution
+Pending reason
+Team(Name)
+Public Log
+User satifsfaction- If monthly report ang gagawin
+
+Open extracted file
+Merge Both Excel File
+
+Filter by Team(Name)
+Remove BTS Projects, Info Sec, All ENV

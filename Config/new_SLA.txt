@@ -1,0 +1,18 @@
+[04/19/2022 9:18 PM] Raymund Dos Remedios
+can you do me a favor and consider all tickets except the tickets that should automatically expire after 14days
+
+[04/19/2022 9:18 PM] Raymund Dos Remedios
+eliminate tickets that were closed the previous week and earlier
+
+[04/19/2022 9:19 PM] Raymund Dos Remedios
+for closed tickets include just the tickets that were closed in the week under consideration
+
+[04/19/2022 9:21 PM] Raymund Dos Remedios
+do your current way of calculating SLA and then do it using the way I am asking as well
+
+[04/19/2022 9:23 PM] Raymund Dos Remedios
+the way I am asking you should leave you with a universe of tickets that include all open tickets as well as the tickets that were closed during the week under consideration.  these tickets are regardless of whether they were auto closed or not
+
+[04/19/2022 9:26 PM] Raymund Dos Remedios
+then you should take the open tickets older than 14 days from the last day of the week under consideration and do a distribution analysis of the nature of the tickets (using service perhaps?)
+
